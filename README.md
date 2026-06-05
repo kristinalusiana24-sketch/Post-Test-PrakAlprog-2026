@@ -8,9 +8,11 @@ Proyek ini melakukan analisis mendalam terhadap hubungan antara **ketimpangan pe
 ## 👥 Tim Kami
 | Nama Anggota | NIM | Peran Utama |
 | :--- | :--- | :--- |
-| [Nama] | [NIM] | Analisis Data & Statistik |
+| [Elsa Citra Wahyu Safitri] | [21060125120002] | Pengodean Grafik 3 Kategori C dan merapikan file prajilid  |
 | [Nama] | [NIM] | Visualisasi & UI/UX |
 | [Nama] | [NIM] | Pemrograman & Dokumentasi |
+| [Nama] | [NIM] | Pemrograman & Dokumentasi |
+
 
 ## 📊 Hasil Analisis Utama
 * **Ketimpangan Pendapatan:** Kawasan maju memiliki distribusi pendapatan yang lebih merata dibanding kawasan berkembang.
