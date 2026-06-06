@@ -10,7 +10,7 @@ Proyek ini melakukan analisis mendalam terhadap hubungan antara **ketimpangan pe
 | :--- | :--- | :--- |
 | Elsa Citra Wahyu Safitri | 21060125120002 | Pengodean Grafik 3 Kategori C dan merapikan file prajilid  |
 | Javier Valentino Oktavian Putra Perdana | 21060125140159 | Pengolahan data Grafik 1 Kategori A dan membantu mencari daftar pustaka |
-| [Nama] | [NIM] | Pemrograman & Dokumentasi |
+| Tashfiyatul Amelia | 21060125130107 | Pengolahan data grafik 4 dan menyusun abstrak dan daftar pustaka prajilid |
 | [Nama] | [NIM] | Pemrograman & Dokumentasi |
 
 
